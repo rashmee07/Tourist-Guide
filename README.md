@@ -14,7 +14,7 @@ Import database tms.sql (available inside zip package)Open Your browser put insi
 
    ///////////////\\\\\\\\\\\\\\\\\\\///////////\\\\\\\\\\\\\\\\\
 Login Details for admin : 
-Open Your browser put inside browser 👉🏻 http://localhost/tms/admin 
+Open Your browser put inside browser with this link 👉🏻 http://localhost/tms/admin 
 
 Username : admin
 
