@@ -40,7 +40,7 @@ $msg="Profile Updated Successfully";
 <!-- Custom Theme files -->
 <script src="js/jquery-1.12.0.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<!--animate-->
+<!---animate--->
 <link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
 <script src="js/wow.min.js"></script>
 	<script>
