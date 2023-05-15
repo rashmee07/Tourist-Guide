@@ -52,7 +52,7 @@ else{
 		</style>
 </head>
 <body>
-<!-- top-header -->
+<!--- top-header --->
 <div class="top-header">
 <?php include('includes/header.php');?>
 <div class="banner-1 ">
