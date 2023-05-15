@@ -25,7 +25,7 @@ include('includes/config.php');
 	<script>
 		 new WOW().init();
 	</script>
-<!--//end-animate-->
+<!---//end-animate--->
 </head>
 <body>
 <?php include('includes/header.php');?>
