@@ -16,5 +16,5 @@ Password : Test@123
 
 Login Details for user: 
 Open Your browser put inside browser “http://localhost/tms/”
-Username : anuj@gmail.com
+Username : rashmichaudhary15116@gmail.com
 Password : Test@123
