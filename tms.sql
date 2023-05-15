@@ -299,7 +299,7 @@ ALTER TABLE `tbltourpackages`
 --
 -- AUTO_INCREMENT for table `tblusers`
 --
-ALTER TABLE `tblusers`
+ALTER TABLE with`tblusers`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 COMMIT;
 
